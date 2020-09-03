@@ -23,6 +23,7 @@ public class inputstream {
 		catch (IOException e) {
 			// TODO: handle exception
 			System.out.print("¿À·ù³µÀ½!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+
 		}
 	}
 
