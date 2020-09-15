@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" modified="2020-09-14T06:57:55.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="pKdSdbRm7o6HArQ56F9B" version="13.6.10" type="github">
+  <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
+    <mxGraphModel dx="1422" dy="2462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dCtWKXryYwAZtbj305d1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-28" target="dCtWKXryYwAZtbj305d1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-28" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;그만 하라할때가지 반복&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1410" width="800" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-1" target="dCtWKXryYwAZtbj305d1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-1" value="시작" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-1610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-2" value="전화번호부 프로필 클래스,전화번호부 관리 클래스" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-10" value="사용자가 전화번호추가,삭제등등을 한다" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-1390" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-2" target="dCtWKXryYwAZtbj305d1-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-1370" as="sourcePoint" />
+            <mxPoint x="520" y="-1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-12" target="dCtWKXryYwAZtbj305d1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-12" target="dCtWKXryYwAZtbj305d1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-12" target="dCtWKXryYwAZtbj305d1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-12" target="dCtWKXryYwAZtbj305d1-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="-1165" />
+              <mxPoint x="660" y="-1165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-12" target="dCtWKXryYwAZtbj305d1-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-12" value="삽입,삭제,검색,수정" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-1290" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-13" value="삽입&lt;br&gt;전화번호프로필을 추가한다 또한 동시에 이름순으로 정렬한다" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-1285" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-15" value="삭제&lt;br&gt;삭제하고싶은 이름을 적으면 삭제" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1120" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-19" value="&amp;nbsp;수정&lt;br&gt;전화번호부 에적혀있는 정보를 수정해준다ex)이름 이나 전화번호를 바꿈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-1290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-23" value="검색&lt;br&gt;찾고싶은 전화번호를 찾는다" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-1120" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dCtWKXryYwAZtbj305d1-26" target="dCtWKXryYwAZtbj305d1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-26" value="그만&lt;br&gt;그만을 누르면 반복문탈출" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-1120" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dCtWKXryYwAZtbj305d1-32" value="끝" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-975" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
