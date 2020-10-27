@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T13:33:17.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="LCRFcdHcNuGMrNnejlJc" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T14:13:43.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Zxev4aj6bz7GDWRB1dgt" version="13.8.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
         <mxCell id="lPXVkHvJ1FRcczWmUwX--12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="580" width="150" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="lPXVkHvJ1FRcczWmUwX--13" value="1번은&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lPXVkHvJ1FRcczWmUwX--13" value="1번은 비디오 검색,2번은 사용자 검색,3번은 비디오 대여 ,4번은 전채 대여가능한 비디오 목록출력,5번은 비디오추가,6번은 나가기" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="515" y="440" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lPXVkHvJ1FRcczWmUwX--14" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lPXVkHvJ1FRcczWmUwX--13" target="lPXVkHvJ1FRcczWmUwX--12">
