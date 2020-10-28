@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T02:41:23.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="IYO6FijSJa5wl1LUewPC" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T12:58:24.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Ehad9-T8dJ348JPa6PyX" version="13.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -141,13 +141,13 @@
             <mxPoint x="680" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVifMxlsPe1NLRu8LXG8-0" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8dyUEaJClcj9uAZ_qfU--2">
+        <mxCell id="ZVifMxlsPe1NLRu8LXG8-0" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8dyUEaJClcj9uAZ_qfU--2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="320" as="sourcePoint" />
             <mxPoint x="420" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVifMxlsPe1NLRu8LXG8-1" value="mysql에서 데이터 받아오기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZVifMxlsPe1NLRu8LXG8-1" value="mysql에서 데이터 받아오기" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
