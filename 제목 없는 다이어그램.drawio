@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T10:07:35.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="fF0tIWpNJUNVJi0EILky" version="13.10.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-12-06T10:46:20.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wq-OQbZxNBZND8O-ShWx" version="13.10.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -429,7 +429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oEFHM0g6E0xDTOH_83b2" name="erase">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="cABiX3Z68AWyx_w7L_8c-0" />
         <mxCell id="cABiX3Z68AWyx_w7L_8c-1" parent="cABiX3Z68AWyx_w7L_8c-0" />
@@ -454,10 +454,52 @@
         <mxCell id="ELa2jrJP-5HbkUJJF5a8-2" value="존재하는 데이터인가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="cABiX3Z68AWyx_w7L_8c-1">
           <mxGeometry x="540" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ELa2jrJP-5HbkUJJF5a8-3" value="" style="endArrow=classic;html=1;" edge="1" parent="cABiX3Z68AWyx_w7L_8c-1">
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-3" value="" style="endArrow=classic;html=1;" edge="1" parent="cABiX3Z68AWyx_w7L_8c-1" target="ELa2jrJP-5HbkUJJF5a8-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="570" as="sourcePoint" />
             <mxPoint x="600" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="cABiX3Z68AWyx_w7L_8c-1" source="ELa2jrJP-5HbkUJJF5a8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="410" as="sourcePoint" />
+            <mxPoint x="710" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-5" value="&quot;없는 데이터입니다&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cABiX3Z68AWyx_w7L_8c-1">
+          <mxGeometry x="710" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-6" value="복사" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cABiX3Z68AWyx_w7L_8c-1">
+          <mxGeometry x="540" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="cABiX3Z68AWyx_w7L_8c-1" source="ELa2jrJP-5HbkUJJF5a8-6" target="ELa2jrJP-5HbkUJJF5a8-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="610" as="sourcePoint" />
+            <mxPoint x="602" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cABiX3Z68AWyx_w7L_8c-1" source="ELa2jrJP-5HbkUJJF5a8-9" target="ELa2jrJP-5HbkUJJF5a8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-9" value="지우기&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22550%22%20y%3D%22720%22%20width%3D%22110%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cABiX3Z68AWyx_w7L_8c-1">
+          <mxGeometry x="540" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-11" value="쓰기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cABiX3Z68AWyx_w7L_8c-1">
+          <mxGeometry x="540" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cABiX3Z68AWyx_w7L_8c-1" target="ELa2jrJP-5HbkUJJF5a8-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="770" as="sourcePoint" />
+            <mxPoint x="650" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-14" value="지우기 완료" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cABiX3Z68AWyx_w7L_8c-1">
+          <mxGeometry x="540" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELa2jrJP-5HbkUJJF5a8-15" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cABiX3Z68AWyx_w7L_8c-1" source="ELa2jrJP-5HbkUJJF5a8-11" target="ELa2jrJP-5HbkUJJF5a8-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="910" as="sourcePoint" />
+            <mxPoint x="620" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
